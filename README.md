@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-<!-- <img style="border-radius: 0.25rem" align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420"/> -->
+<img style="border-radius: 0.25rem" align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420"/>
 
 🏠 I’m currently living at Jerusalem City, Israel. <br/>
 
