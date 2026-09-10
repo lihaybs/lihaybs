@@ -11,7 +11,7 @@
 - FullStack Developer at <a href="https://binyamintech.co.il/">BinyaminTech.</a>
 - DevOps Engineer at <a href="https://rhinops.io/">RhinOps.</a>
 
-👀 I am interested in the following topics: DevOps Automations, CI/CD, Networking, Cloud, Sys Admin, Cyber Security and Docker. <br/>
+👀 I am interested in the following topics: DevOps Automations, CI/CD, Cloud & Infrastructure as Code (AWS, Terraform), Networking, Sys Admin, Cyber Security and Docker. <br/>
 
 🧠 I like to discover new technologies and work for projects which have scope for self learning and development. <br/>
 💪🏽 Excellent self learning skills.<br/>
@@ -35,6 +35,7 @@ Team player.<br/>
 ### Languages
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 #### Front-End Development
 
@@ -48,6 +49,16 @@ Team player.<br/>
 ![node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=Express.js&logoColor=white)
 
+#### Cloud & Infrastructure
+
+![aws](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white)
+![githubactions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![argocd](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![cloudwatch](https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+
 #### Tools
 
 ![mongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -60,7 +71,6 @@ Team player.<br/>
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![vscode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![vs](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white)
 ![linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=Linux&logoColor=white)
 
  <table style="width:100%" align="center">
